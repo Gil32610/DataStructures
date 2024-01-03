@@ -1,4 +1,4 @@
-package TwoDimensionalArray;
+package Arrays.TwoDimensionalArray;
 
 public class TwoDimensionalArray {
     private int array[][];
